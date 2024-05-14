@@ -27,6 +27,7 @@ cd ChatWithGemini
 open ChatWithGemini.xcodeproj
 
 Configuration
-The app fetches the API key for the Google Generative AI from a file named GenerativeAI-info.plist. Ensure that you have added your API key to this file before building and running the app.
+The app fetches the API key for the Google Generative AI from a file named GenerativeAI-info.plist. 
+Ensure that you have added your API key to this file before building and running the app.
 
 

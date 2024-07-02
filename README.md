@@ -9,6 +9,9 @@ ChatWithGemini is a SwiftUI-based iOS app that utilizes the Google Generative AI
 - **Real-time Response**: Receive responses from the AI model in real-time.
 - **User-Friendly Interface**: Clean and intuitive UI designed with SwiftUI.
 
+![Simulator Screenshot - iPhone 15 Pro - 2024-07-02 at 20 46 24](https://github.com/cyborg-joshi/ChatWithGemini/assets/91533278/0e7d3dcc-08e4-4e12-9fb3-b3f54bfe2929)
+![Simulator Screenshot - iPhone 15 Pro - 2024-07-02 at 20 47 07](https://github.com/cyborg-joshi/ChatWithGemini/assets/91533278/2fdce0bf-7300-4445-9965-89cb978707e9)
+
 ## Requirements
 
 - iOS 14.0+
@@ -29,7 +32,3 @@ open ChatWithGemini.xcodeproj
 Configuration
 The app fetches the API key for the Google Generative AI from a file named GenerativeAI-info.plist. 
 Ensure that you have added your API key to this file before building and running the app.
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-02 at 20 47 07](https://github.com/cyborg-joshi/ChatWithGemini/assets/91533278/cc5d22fa-8b7f-4f26-896a-72fa767986a0)
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-02 at 20 46 24](https://github.com/cyborg-joshi/ChatWithGemini/assets/91533278/25901407-124d-430b-9e53-9fccb4768cc6)
-
-
